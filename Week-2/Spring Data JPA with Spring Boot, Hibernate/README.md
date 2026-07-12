@@ -89,12 +89,4 @@ Features:
 
 The provided Cognizant material contains an introduction to Criteria Query and explains its purpose in building dynamic queries. No implementation steps were provided in the exercise document.
 
----
 
-
-
-
-
-## Author
-
-Developed as part of the **Cognizant Digital Nurture Program – Java FSE**.
