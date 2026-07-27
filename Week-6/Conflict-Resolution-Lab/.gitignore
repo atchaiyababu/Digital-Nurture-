@@ -1,0 +1,5 @@
+*.orig
+hello_BACKUP*.xml
+hello_BASE*.xml
+hello_LOCAL*.xml
+hello_REMOTE*.xml
