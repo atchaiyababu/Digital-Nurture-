@@ -1,0 +1,2 @@
+Git-T03-HOL_002 - Cleanup and Push Lab
+Verified master clean, listed branches, pulled and pushed to remote.
